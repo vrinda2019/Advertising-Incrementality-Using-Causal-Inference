@@ -1,4 +1,4 @@
-# {Causal Impact Analysis of Email Marketing Campaigns
+# Causal Impact Analysis of Email Marketing Campaigns
 
 Estimate the **incremental impact of digital advertising campaigns** using causal inference techniques to determine whether marketing interventions truly drive customer conversions.
 
